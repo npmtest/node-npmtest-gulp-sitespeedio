@@ -522,7 +522,7 @@
 <tspan x="10" y="8314">  │ │ │ │ └─┬ promise@7.1.1 </tspan>
 <tspan x="10" y="8330">  │ │ │ │   └── asap@2.0.5 </tspan>
 <tspan x="10" y="8346">  │ │ │ ├── pug-walk@1.1.2 </tspan>
-<tspan x="10" y="8362">  │ │ │ ├─┬ resolve@1.3.2 </tspan>
+<tspan x="10" y="8362">  │ │ │ ├─┬ resolve@1.3.3 </tspan>
 <tspan x="10" y="8378">  │ │ │ │ └── path-parse@1.0.5 </tspan>
 <tspan x="10" y="8394">  │ │ │ └─┬ uglify-js@2.8.22 </tspan>
 <tspan x="10" y="8410">  │ │ │   ├── source-map@0.5.6 </tspan>
@@ -645,7 +645,7 @@
 <tspan x="10" y="10282">  │   │ ├─┬ find-up@1.1.2 </tspan>
 <tspan x="10" y="10298">  │   │ │ └── path-exists@2.1.0 </tspan>
 <tspan x="10" y="10314">  │   │ └─┬ read-pkg@1.1.0 </tspan>
-<tspan x="10" y="10330">  │   │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="10330">  │   │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="10346">  │   │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="10362">  │   │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="10378">  │   │   │ │ └── builtin-modules@1.1.1 </tspan>
